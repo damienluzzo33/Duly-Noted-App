@@ -38,10 +38,10 @@ If you are interested in improving or modifying this application for your own pe
 Screenshots:
 
 Desktop:
-![Desktop view of application](./public/assets/images/duly_noted_screenshot_desktop_view.png)
+![Desktop view of application](./public/assets/images/duly_noted_screenshot_desktop_1.png)
 
 Mobile:
-![Mobile view of application](./public/assets/images/duly_noted_screenshot_mobile_view.png)
+![Mobile view of application](./public/assets/images/duly_noted_screenshot_mobile_1.png)
 
 ## Credits
 
