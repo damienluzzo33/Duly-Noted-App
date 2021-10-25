@@ -8,11 +8,11 @@ No account needed, and no coding skills required. All you need to do is launch t
 
 If you are interested in improving or modifying this application for your own personal usage, please go ahead and clone down the repository and transform it into your own amazing note taking app.
 
-<!-- [Link to deployed application on Heroku]() -->
+[Link to deployed application on Heroku](https://duly-noted-application.herokuapp.com/)
 
-<!-- [Link to video demo of app]() -->
+[See video demo of app](https://drive.google.com/file/d/1KezRAG0xWhTEQ5Q-ACtTWt-8PVPh0mUg/view?usp=sharing)
 
-<!-- ![Giphy demo of project]() -->
+![Giphy demo of project](./public/assets/images/duly_noted.gif)
 
 ## Table of Contents
 
