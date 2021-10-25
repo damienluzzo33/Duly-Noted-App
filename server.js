@@ -4,7 +4,7 @@ const path = require('path');
 // import and set up the api router 
 const api = require('./routes/index');
 // define the PORT variable
-const PORT = process.env.port || 3001;
+const PORT = process.env.PORT || 3001;
 // initialize express app
 const app = express();
 // Middleware for parsing JSON and urlencoded form data
